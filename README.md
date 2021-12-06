@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
-  A Python 🐍 Developer and also Data Analyst
+  A Python 🐍 Developer and also Data Analyst 🔬
 </p>
 
 
