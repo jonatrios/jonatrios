@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jonathan 👨‍💻
 
 <!--
 **jonatrios/jonatrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align='center'>
+  Hi there 👋 
+</h1>
+
+<p align='center'>
+  A mobile and .net developer from Curitiba, Brazil.
+</p>
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/Jonat_Rios">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
